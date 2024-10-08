@@ -1,0 +1,12 @@
+{
+  "name": "cypress1208",
+  "version": "1.0.0",
+  "description": "Automatisation des tests du projet 1",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Leila",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.2"
+  }
+}
